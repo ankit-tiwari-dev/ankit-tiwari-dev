@@ -1,32 +1,51 @@
-<h2 align="center">Hi there, I'm Ankit Tiwari! 👋</h2>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI3ZTIzZDY0NjM1YmY0NGEwYmYwZDY0NGEwYmYwZDY0NGEwYmYwJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b21fcmV0YXJkZWRfcmVnaW9uX2dpZl9zZWFyY2gvZ2lmcy9oZWxsby5naWY/giphy.gif" width="30"> I'm Ankit Tiwari 
 
-- 💻 I have skills in frontend development with:  
-  - **HTML** 
-  - **CSS** 
-  - **JavaScript** 
-  - **Tailwind CSS**  
-  - **React.js** (including React Router-DOM and React Hooks)  
-  - **UI/UX design with Figma**
-- 🗄️ Familiar with **MySQL** for database management.  
-- 🌱 Still learning backend development with Node.js and Express.js.  
+**Software Engineering Undergraduate | Full-Stack Developer | Problem Solver**
 
-<h3 align="left">Languages Used:</h3>  
-<p align="left">   
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="30" width="40" />  
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="40" />  
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="30" width="40" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="30" width="40"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" height="30" width="40"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" height="30" width="40"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Java-Script" height="30" width="40"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Type-Script" height="30" width="40"/>
-</p>  
-<h3 align="left">Data Structures and Algorithms:</h3>  
-- 💡 Strong foundation in DSA with C++.  
+Building scalable, secure, and production-ready web applications with a focus on clean architecture and performance.
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Languages & Core CS**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" alt="Languages" />
+</p>
+
+#### **Web Development (MERN & Beyond)**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,mongodb,mysql" alt="Web Tech" />
+</p>
+
+#### **Tools & Specialized Knowledge**
+- **Architecture:** RESTful APIs, System Design, JWT Authentication 
+- **Tools:** Git, GitHub, Postman, Figma, Vertex AI
+- **DSA:** Solved structured problems in Arrays, Recursion, and Trees using Java & C++
+
+---
+
+### 🌟 Featured Project
+**[SafeSpend Smart Finance Tracker](https://github.com)** *Full-stack personal finance platform for expense tracking and analytics.*
+- Built with **React, Node.js, Express, and MongoDB**.
+- Features secure **JWT authentication** and interactive dashboards for balance trends.
+- Implemented **Excel export** functionality for financial reporting.
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
   <a href="https://www.linkedin.com/in/ankit-tiwari-a90881217/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>  
+  <a href="mailto:ankit827691@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-tiwari&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
+</p>
