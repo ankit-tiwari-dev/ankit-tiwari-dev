@@ -1,51 +1,84 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI3ZTIzZDY0NjM1YmY0NGEwYmYwZDY0NGEwYmYwZDY0NGEwYmYwJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b21fcmV0YXJkZWRfcmVnaW9uX2dpZl9zZWFyY2gvZ2lmcy9oZWxsby5naWY/giphy.gif" width="30"> I'm Ankit Tiwari 
+<div align="center">
+  <img src="dashboard.svg" width="850" alt="Ankit Tiwari Dashboard" />
+</div>
 
-**Software Engineering Undergraduate | Full-Stack Developer | Problem Solver**
+<br />
 
-Building scalable, secure, and production-ready web applications with a focus on clean architecture and performance.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### **Languages & Core CS**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" alt="Languages" />
-</p>
-
-#### **Web Development (MERN & Beyond)**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,mongodb,mysql" alt="Web Tech" />
-</p>
-
-#### **Tools & Specialized Knowledge**
-- **Architecture:** RESTful APIs, System Design, JWT Authentication 
-- **Tools:** Git, GitHub, Postman, Figma, Vertex AI
-- **DSA:** Solved structured problems in Arrays, Recursion, and Trees using Java & C++
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;MERN+Stack+Specialist;AI-Driven+Development;Building+Scalable+Solutions" />
+</div>
 
 ---
 
-### 🌟 Featured Project
-**[SafeSpend Smart Finance Tracker](https://github.com)** *Full-stack personal finance platform for expense tracking and analytics.*
-- Built with **React, Node.js, Express, and MongoDB**.
-- Features secure **JWT authentication** and interactive dashboards for balance trends.
-- Implemented **Excel export** functionality for financial reporting.
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
 
----
+<td width="48%" valign="top">
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/ankit-tiwari-a90881217/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ankit827691@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+### 🎯 Current Focus
+- Data Structures & Algorithms
+- Full-Stack Web Development
+- AI-Augmented Problem Solving
+
+### 🛠️ Languages & Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,py,mysql&perline=4" />
 </p>
 
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma,linux,vercel&perline=4" />
+</p>
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ankit-tiwari-dev&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+### 📜 LeetCode Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-tiwari&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/Ankit_Tiwari_2306?theme=dark&font=Inter&ext=heatmap" width="100%" />
 </p>
+
+### 📈 Contribution Flow
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankit-tiwari-dev&theme=transparent&hide_border=true&fire=58a6ff&stroke=8b949e&sideNums=58a6ff" width="100%" />
+</p>
+
+### 🧠 Core Principles
+- 🔁 **Consistency** — Showing up every day.
+- ⚙️ **Execution** — Building real solutions.
+- 🧱 **Structure** — Writing code that lasts.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankit-tiwari-dev/ankit-tiwari-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://linkedin.com/in/ankit-tiwari-at23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ankit827691@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://ankitdev-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ankit-tiwari-dev&color=58a6ff&style=flat-square&label=PROFILE%20VIEWS" />
+</div>
