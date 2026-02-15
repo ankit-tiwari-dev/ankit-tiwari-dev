@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dashboard.svg" width="850" alt="Ankit Tiwari Dashboard" />
+  <img src="chat.svg" width="850" alt="Ankit Tiwari Dashboard" />
 </div>
 
 <br />
