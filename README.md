@@ -31,7 +31,7 @@
 </p>
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ankit-tiwari-dev&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-tiwari-dev&theme=dark" width="100%" />
 
 </td>
 
