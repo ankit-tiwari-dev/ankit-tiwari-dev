@@ -69,6 +69,43 @@ def make_most_commit_language_svg(items, outpath):
     with open(outpath, 'w', encoding='utf-8') as f:
         f.write(svg)
 
+def make_pie_svg(items, outpath, title="Top Languages"):
+    # items: list of (label, value)
+    total = sum(v for _, v in items) or 1
+    width = 420
+    height = 220
+    cx = 140
+    cy = 110
+    r = 80
+    inner_r = 44
+    colors = ["#00d4ff", "#FFD166", "#FF6B6B", "#9B5CFF", "#2EE6A6", "#FF9F1C"]
+    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}">']
+    parts.append(f'<rect width="100%" height="100%" fill="#000000"/>')
+    parts.append(f'<text x="{cx}" y="24" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" text-anchor="middle">{title}</text>')
+    angle = -90.0
+    for i, (label, val) in enumerate(items):
+        frac = val / total
+        a1 = math.radians(angle)
+        a2 = math.radians(angle + frac * 360.0)
+        x1 = cx + r * math.cos(a1)
+        y1 = cy + r * math.sin(a1)
+        x2 = cx + r * math.cos(a2)
+        y2 = cy + r * math.sin(a2)
+        large = 1 if frac > 0.5 else 0
+        color = colors[i % len(colors)]
+        # outer arc, then inner arc back to start to make donut
+        d = f'M {x1:.2f},{y1:.2f} A {r},{r} 0 {large} 1 {x2:.2f},{y2:.2f} L {cx + inner_r * math.cos(a2):.2f},{cy + inner_r * math.sin(a2):.2f} A {inner_r},{inner_r} 0 {large} 0 {cx + inner_r * math.cos(a1):.2f},{cy + inner_r * math.sin(a1):.2f} Z'
+        parts.append(f'<path d="{d}" fill="{color}" stroke="#000" stroke-width="0.5"/>')
+        # legend
+        lx = 280
+        ly = 40 + i*28
+        parts.append(f'<rect x="{lx}" y="{ly-12}" width="14" height="14" fill="{color}" rx="3"/>')
+        parts.append(f'<text x="{lx+20}" y="{ly}" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">{label} ({val})</text>')
+        angle += frac * 360.0
+    parts.append('</svg>')
+    with open(outpath, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(parts))
+
 def make_profile_svg(user, outpath):
     name = user.get('name') or user.get('login')
     followers = user.get('followers', 0)
@@ -121,8 +158,9 @@ def main():
     events = fetch_events(username, token)
 
     langs = aggregate_languages(repos)
-    make_repos_language_svg(langs, os.path.join(outdir, 'repos_per_language.svg'))
-    make_most_commit_language_svg(langs, os.path.join(outdir, 'most_commit_language.svg'))
+    # Create pie/donut charts for top languages by repo and by commit-count proxy
+    make_pie_svg(langs[:6], os.path.join(outdir, 'repos_per_language.svg'), title="Top Languages by Repo")
+    make_pie_svg(langs[:6], os.path.join(outdir, 'most_commit_language.svg'), title="Top Languages by Commit")
     make_profile_svg(user, os.path.join(outdir, 'profile_stats.svg'))
 
     # activity: counts per day for last 30 days using events

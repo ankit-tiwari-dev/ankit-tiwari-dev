@@ -1,4 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64">
-  <rect width="100%" height="100%" fill="#000000" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00d4ff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Most-used language: JavaScript (4 repos)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220">
+<rect width="100%" height="100%" fill="#000000"/>
+<text x="140" y="24" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" text-anchor="middle">Top Languages by Commit</text>
+<path d="M 140.00,30.00 A 80,80 0 0 1 209.28,150.00 L 178.11,132.00 A 44,44 0 0 0 140.00,66.00 Z" fill="#00d4ff" stroke="#000" stroke-width="0.5"/>
+<rect x="280" y="28" width="14" height="14" fill="#00d4ff" rx="3"/>
+<text x="300" y="40" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">JavaScript (4)</text>
+<path d="M 209.28,150.00 A 80,80 0 0 1 100.00,179.28 L 118.00,148.11 A 44,44 0 0 0 178.11,132.00 Z" fill="#FFD166" stroke="#000" stroke-width="0.5"/>
+<rect x="280" y="56" width="14" height="14" fill="#FFD166" rx="3"/>
+<text x="300" y="68" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">Unknown (3)</text>
+<path d="M 100.00,179.28 A 80,80 0 0 1 70.72,70.00 L 101.89,88.00 A 44,44 0 0 0 118.00,148.11 Z" fill="#FF6B6B" stroke="#000" stroke-width="0.5"/>
+<rect x="280" y="84" width="14" height="14" fill="#FF6B6B" rx="3"/>
+<text x="300" y="96" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">TypeScript (3)</text>
+<path d="M 70.72,70.00 A 80,80 0 0 1 140.00,30.00 L 140.00,66.00 A 44,44 0 0 0 101.89,88.00 Z" fill="#9B5CFF" stroke="#000" stroke-width="0.5"/>
+<rect x="280" y="112" width="14" height="14" fill="#9B5CFF" rx="3"/>
+<text x="300" y="124" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">C++ (2)</text>
 </svg>
