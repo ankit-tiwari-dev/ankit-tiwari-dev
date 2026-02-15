@@ -1,0 +1,47 @@
+<svg width="850" height="300" viewBox="0 0 850 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes lineGrow { from { width: 0; } to { width: 100%; } }
+    
+    .base-text { font-family: 'Inter', 'Segoe UI', Arial, sans-serif; }
+    .name { font-size: 48px; font-weight: 800; fill: #ffffff; }
+    .role { font-size: 20px; font-weight: 400; fill: #58a6ff; letter-spacing: 2px; }
+    .focus { font-size: 16px; fill: #8b949e; }
+    .code-accent { font-family: 'SF Mono', monospace; fill: #7ee787; font-size: 14px; }
+    
+    .fade { opacity: 0; animation: fadeIn 0.8s forwards; }
+    .delay-1 { animation-delay: 0.2s; }
+    .delay-2 { animation-delay: 0.4s; }
+    .delay-3 { animation-delay: 0.6s; }
+    
+    .divider { stroke: #30363d; stroke-width: 1; animation: lineGrow 1s ease-out; }
+  </style>
+
+  <rect width="850" height="300" rx="12" fill="#0d1117"/>
+  
+  <path d="M0 50H850M0 100H850M0 150H850M0 200H850M0 250H850" stroke="#161b22" stroke-width="1"/>
+  <path d="M50 0V300M100 0V300M150 0V300M200 0V300M250 0V300" stroke="#161b22" stroke-width="1"/>
+
+  <g transform="translate(60, 100)">
+    <text class="code-accent fade" y="-20">&lt;software_engineer&gt;</text>
+    
+    <text class="base-text name fade delay-1" y="40">ANKIT TIWARI</text>
+    
+    <text class="base-text role fade delay-2" y="80">SOFTWARE ENGINEERING • DSA • AI INTEGRATION</text>
+    
+    <line x1="0" y1="110" x2="300" y2="110" class="divider"/>
+    
+    <text class="base-text focus fade delay-3" y="140">Solving complex algorithmic challenges and building</text>
+    <text class="base-text focus fade delay-3" y="165">production-grade full-stack architectures.</text>
+    
+    <text class="code-accent fade delay-3" x="0" y="210">&lt;/software_engineer&gt;</text>
+  </g>
+
+  <g transform="translate(600, 150)" opacity="0.5">
+    <rect x="-40" y="-40" width="80" height="80" stroke="#58a6ff" stroke-width="2" transform="rotate(45)"/>
+    <rect x="-30" y="-30" width="60" height="60" stroke="#30363d" stroke-width="1" transform="rotate(45)"/>
+    <circle r="10" fill="#7ee787" class="fade delay-3">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
