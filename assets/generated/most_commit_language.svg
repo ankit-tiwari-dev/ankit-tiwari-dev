@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220">
-<rect width="100%" height="100%" fill="#000000"/>
-<text x="140" y="24" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" text-anchor="middle">Top Languages by Commit</text>
-<path d="M 140.00,30.00 A 80,80 0 0 1 209.28,150.00 L 178.11,132.00 A 44,44 0 0 0 140.00,66.00 Z" fill="#00d4ff" stroke="#000" stroke-width="0.5"/>
-<rect x="280" y="28" width="14" height="14" fill="#00d4ff" rx="3"/>
-<text x="300" y="40" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">JavaScript (4)</text>
-<path d="M 209.28,150.00 A 80,80 0 0 1 100.00,179.28 L 118.00,148.11 A 44,44 0 0 0 178.11,132.00 Z" fill="#FFD166" stroke="#000" stroke-width="0.5"/>
-<rect x="280" y="56" width="14" height="14" fill="#FFD166" rx="3"/>
-<text x="300" y="68" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">Unknown (3)</text>
-<path d="M 100.00,179.28 A 80,80 0 0 1 70.72,70.00 L 101.89,88.00 A 44,44 0 0 0 118.00,148.11 Z" fill="#FF6B6B" stroke="#000" stroke-width="0.5"/>
-<rect x="280" y="84" width="14" height="14" fill="#FF6B6B" rx="3"/>
-<text x="300" y="96" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">TypeScript (3)</text>
-<path d="M 70.72,70.00 A 80,80 0 0 1 140.00,30.00 L 140.00,66.00 A 44,44 0 0 0 101.89,88.00 Z" fill="#9B5CFF" stroke="#000" stroke-width="0.5"/>
-<rect x="280" y="112" width="14" height="14" fill="#9B5CFF" rx="3"/>
-<text x="300" y="124" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12">C++ (2)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="240">
+<rect width="100%" height="100%" fill="#000000" rx="10"/>
+<text x="20" y="35" fill="#58a6ff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Top Languages by Commit</text>
+<line x1="20" y1="45" x2="430" y2="45" stroke="#161b22" stroke-width="1"/>
+<path d="M 150.00,45.00 A 85,85 0 0 1 150.00,215.00 L 150.00,180.00 A 50,50 0 0 0 150.00,80.00 Z" fill="#58a6ff" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="65" width="12" height="12" fill="#58a6ff" rx="2"/>
+<text x="308" y="75" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Scala (50.0%)</text>
+<path d="M 150.00,215.00 A 85,85 0 0 1 66.29,115.24 L 100.76,121.32 A 50,50 0 0 0 150.00,180.00 Z" fill="#7ee787" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="89" width="12" height="12" fill="#7ee787" rx="2"/>
+<text x="308" y="99" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Haskell (27.8%)</text>
+<path d="M 66.29,115.24 A 85,85 0 0 1 120.93,50.13 L 132.90,83.02 A 50,50 0 0 0 100.76,121.32 Z" fill="#ffa657" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="113" width="12" height="12" fill="#ffa657" rx="2"/>
+<text x="308" y="123" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Python (16.7%)</text>
+<path d="M 120.93,50.13 A 85,85 0 0 1 150.00,45.00 L 150.00,80.00 A 50,50 0 0 0 132.90,83.02 Z" fill="#d2a8ff" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="137" width="12" height="12" fill="#d2a8ff" rx="2"/>
+<text x="308" y="147" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Shell (5.6%)</text>
 </svg>
