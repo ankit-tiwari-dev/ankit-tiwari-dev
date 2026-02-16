@@ -57,7 +57,7 @@
 
 ### Development Consistency
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=ankit-tiwari-dev&theme=dark&hide_border=true&v=force_feb16_1450" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=ankit-tiwari-dev&theme=dark&hide_border=true&v=v3_refresh" width="100%" />
 </p>
 
 ### System Activity
