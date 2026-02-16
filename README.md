@@ -57,7 +57,7 @@
 
 ### Development Consistency
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankit-tiwari-dev&theme=transparent&hide_border=true&fire=58a6ff&stroke=8b949e&sideNums=58a6ff&count_private=true&cache_seconds=1800&timezone=Asia/Kolkata&v=2" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=ankit-tiwari-dev&theme=dark&hide_border=true&v=force_feb16_1450" width="100%" />
 </p>
 
 ### System Activity
