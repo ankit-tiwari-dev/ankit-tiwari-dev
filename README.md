@@ -1,14 +1,17 @@
 <div align="center">
-
 <img src="dashboard.svg" width="850" alt="Ankit Tiwari - Software Engineering Dashboard" />
-
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Software+Engineering+Professional;Data+Structures+%26+Algorithms;AI-Augmented+Application+Development;Scalable+System+Architecture" />
-
-<img src="https://komarev.com/ghpvc/?username=ankit-tiwari-dev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="70%" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Software+Engineering+Professional;Data+Structures+%26+Algorithms;AI-Augmented+Application+Development;Scalable+System+Architecture" />
+    </td>
+    <td width="30%" align="right" valign="bottom">
+      <img src="https://komarev.com/ghpvc/?username=ankit-tiwari-dev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -35,11 +38,17 @@
 ### Technical Recognition
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-tiwari-dev&theme=github_dark" width="100%"/>
 
+### Top Languages by Repo
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-tiwari-dev&theme=github_dark" width="100%"/>
+
 </td>
 
 <td width="4%"></td>
 
 <td width="48%" valign="top">
+
+### GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ankit-tiwari-dev&theme=darkhub&no-frame=true&no-bg=true&row=1&column=3" width="100%"/>
 
 ### LeetCode Performance
 <p align="center">
@@ -54,6 +63,9 @@
 ### System Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-tiwari-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
+### Top Languages by Commit
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-tiwari-dev&theme=github_dark" width="100%"/>
+
 </td>
 </tr>
 </table>
@@ -62,35 +74,14 @@
 
 ### Global Profile Summary
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-tiwari-dev&theme=github_dark" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-tiwari-dev&theme=transparent" width="95%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankit-tiwari-dev/ankit-tiwari-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/ankit-tiwari-dev/ankit-tiwari-dev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game" />
 </div>
 
 ---
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Professional Principles
-- Logic Orientation: Prioritizing structural efficiency over basic syntax.
-- Sustained Output: Commitment to daily technical progress and version control.
-- Engineering Integrity: Focus on high-quality, production-ready codebases.
-</td>
-<td width="50%" valign="top">
-
-### Professional Network
-<p align="left">
-<a href="https://linkedin.com/in/ankit-tiwari-at23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ankit827691@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://ankitdev-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-</td>
-</tr>
-</table>
 
 <br />
 

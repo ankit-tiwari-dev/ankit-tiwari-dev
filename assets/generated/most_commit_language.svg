@@ -1,4 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64">
-  <rect width="100%" height="100%" fill="#000000" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00d4ff" font-family="Inter, Arial, sans-serif" font-size="16">Most-used language: JavaScript (4 repos)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="240">
+<rect width="100%" height="100%" fill="#000000" rx="10"/>
+<text x="20" y="35" fill="#58a6ff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Top Languages by Commit</text>
+<line x1="20" y1="45" x2="430" y2="45" stroke="#161b22" stroke-width="1"/>
+<path d="M 150.00,45.00 A 85,85 0 0 1 150.00,215.00 L 150.00,180.00 A 50,50 0 0 0 150.00,80.00 Z" fill="#58a6ff" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="65" width="12" height="12" fill="#58a6ff" rx="2"/>
+<text x="308" y="75" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Scala (50.0%)</text>
+<path d="M 150.00,215.00 A 85,85 0 0 1 66.29,115.24 L 100.76,121.32 A 50,50 0 0 0 150.00,180.00 Z" fill="#7ee787" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="89" width="12" height="12" fill="#7ee787" rx="2"/>
+<text x="308" y="99" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Haskell (27.8%)</text>
+<path d="M 66.29,115.24 A 85,85 0 0 1 120.93,50.13 L 132.90,83.02 A 50,50 0 0 0 100.76,121.32 Z" fill="#ffa657" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="113" width="12" height="12" fill="#ffa657" rx="2"/>
+<text x="308" y="123" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Python (16.7%)</text>
+<path d="M 120.93,50.13 A 85,85 0 0 1 150.00,45.00 L 150.00,80.00 A 50,50 0 0 0 132.90,83.02 Z" fill="#d2a8ff" stroke="#000" stroke-width="0.5"/>
+<rect x="290" y="137" width="12" height="12" fill="#d2a8ff" rx="2"/>
+<text x="308" y="147" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="11">Shell (5.6%)</text>
 </svg>
